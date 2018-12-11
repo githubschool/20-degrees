@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Asim's caption
+this better be approved.
 
 ![octofez](https://octodex.github.com/images/octofez.png)
 {: .center}
